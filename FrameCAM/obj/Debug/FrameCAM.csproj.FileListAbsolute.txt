@@ -1,0 +1,6 @@
+c:\users\adam\documents\visual studio 2013\Projects\FrameCAM\FrameCAM\bin\Debug\FrameCAM.exe.config
+c:\users\adam\documents\visual studio 2013\Projects\FrameCAM\FrameCAM\bin\Debug\FrameCAM.exe
+c:\users\adam\documents\visual studio 2013\Projects\FrameCAM\FrameCAM\bin\Debug\FrameCAM.pdb
+c:\users\adam\documents\visual studio 2013\Projects\FrameCAM\FrameCAM\obj\Debug\FrameCAM.csprojResolveAssemblyReference.cache
+c:\users\adam\documents\visual studio 2013\Projects\FrameCAM\FrameCAM\obj\Debug\FrameCAM.exe
+c:\users\adam\documents\visual studio 2013\Projects\FrameCAM\FrameCAM\obj\Debug\FrameCAM.pdb
